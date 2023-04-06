@@ -1,4 +1,4 @@
-# AIEDCS: AI-Powered Education Consultancy
+# AIEDCS: World's first AI-Powered Education Consultancy
 
 Welcome to AIEDCS, an AI-powered education consultancy that helps users find their ideal universities based on their preferences and academic qualifications.
 
